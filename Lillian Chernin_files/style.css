@@ -1,0 +1,83 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #43494c;
+}
+h1, h2, h3 {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h1 {
+  padding: 50px 0px 20px 0px;
+  width: 70%;
+  margin: 0 auto;
+  font-size: 36px;
+}
+h2 {
+  font-size: 18px;
+  border-bottom: 1px solid #43494c;
+  width: 35%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+ul {
+  text-align: center;
+}
+li {
+  display: inline-block;
+  padding: 18px;
+  margin: 18px;
+}
+p {
+  width: 55%;
+  margin: 0 auto;
+  padding: 30px 0px 30px 0px;
+}
+button {
+  padding: 5px;
+  background-color: rgba(106, 198, 232, .8);
+  border: 1px solid #43494c;
+  border-radius: 5px;
+  margin: 12px;
+}
+button:hover {
+  padding: 4px;
+  border: 2px solid #f4c242;
+}
+a {
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #43494c;
+}
+header {
+  border-top: 2px solid #43494c;
+  width: 70%;
+  margin: 0 auto;
+  border-bottom: 2px solid #43494c;
+  background-color: rgba(106, 198, 232, .8);
+}
+footer {
+  border-top: 2px solid #43494c;
+  width: 70%;
+  border-bottom: 2px solid #43494c;
+  margin: 0 auto;
+  background-color: rgba(237, 106, 106, .8);
+}
+.portfolio-image {
+  border-radius: 28px;
+  border: 2px solid #43494c;
+}
+.portfolio-items-wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
+.portfolio-item {
+  text-align: center; 
+  border-radius: 36px; 
+  border: 1px solid #43494c; 
+  padding: 6px; 
+  margin: 24px auto;
+}
+.brandStatement {
+  color: #192160;
+}
